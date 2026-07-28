@@ -123,7 +123,7 @@ export default function Services({ onOpenBooking }) {
                 {/* Main Procedure Image */}
                 <div className="relative w-full h-80 rounded-xl overflow-hidden border border-cyan-500/30 bg-black">
                   <img
-                    src={activeService.image || "/laser-dentistry.png"}
+                    src={activeService.image || "./laser-dentistry.jpg"}
                     alt={activeService.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   />

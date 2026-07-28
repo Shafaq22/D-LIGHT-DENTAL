@@ -73,7 +73,7 @@ export const clinicData = {
       title: "Laser Dentistry",
       category: "Advanced Technology",
       tagline: "Minimally invasive, painless, precise laser procedures",
-      image: "/laser-dentistry.jpg",
+      image: "./laser-dentistry.jpg",
       description: "Using cutting-edge dental laser technology, D-light Dental Studio provides soft-tissue procedures with zero bleeding, instant coagulation, faster healing, and minimal discomfort.",
       features: [
         "Laser Gum Contouring & depigmentation",
@@ -87,7 +87,7 @@ export const clinicData = {
       title: "Fixed Prosthodontics & Implants",
       category: "Restorative Dentistry",
       tagline: "Durable, natural-looking porcelain crowns & titanium implants",
-      image: "/fixed-prosthodontics.png",
+      image: "./fixed-prosthodontics.png",
       description: "Specialized restorative solutions to replace missing teeth or restore severely broken tooth structures using premium Emax ceramic crowns, zirconia bridges, and lifetime dental implants.",
       features: [
         "High-translucency Zirconia & Emax Crowns",
@@ -101,7 +101,7 @@ export const clinicData = {
       title: "Root Canal Treatment (RCT)",
       category: "Endodontics",
       tagline: "Painless tooth preservation under digital supervision",
-      image: "/rct.png",
+      image: "./rct.png",
       description: "Save decayed or infected teeth through advanced rotary endodontics. Completely painless procedure performed under strict sterile conditions.",
       features: [
         "Single-visit rotary RCT capability",
@@ -115,7 +115,7 @@ export const clinicData = {
       title: "Bleeding Gums & Periodontal Care",
       category: "Gum Health",
       tagline: "Comprehensive treatment for gingivitis & periodontitis",
-      image: "/bleeding-gums.png",
+      image: "./bleeding-gums.png",
       description: "Targeted periodontal therapy to eliminate gum bleeding, cure infection, stabilize loose teeth, and promote healthy attachment.",
       features: [
         "Ultrasonic scaling & deep root planing",
@@ -129,7 +129,7 @@ export const clinicData = {
       title: "Orthodontics & Invisible Braces",
       category: "Cosmetics",
       tagline: "Discreet teeth alignment with clear aligners",
-      image: "/invisible-braces.png",
+      image: "./invisible-braces.png",
       description: "Straighten misaligned or crowded teeth using clear invisible aligners and aesthetic ceramic braces for children, teens, and adults.",
       features: [
         "3D Digital Aligners planning",
@@ -143,7 +143,7 @@ export const clinicData = {
       title: "Cosmetic Smile Makeover",
       category: "Esthetics",
       tagline: "Transform your smile with veneers and reshaping",
-      image: "/cosmetic-makeover.png",
+      image: "./cosmetic-makeover.png",
       description: "Custom aesthetic smile design using Emax porcelain veneers, teeth whitening, enamel reshaping, and composite bonding.",
       features: [
         "Ultra-thin Emax Veneers & Lumineers",
